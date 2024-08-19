@@ -4,15 +4,19 @@ This repository showcases the capstone projects completed as part of the Python 
 
 Included Files:
 
-**1) 911 Calls Project.ipynb**
+**1) Data**
+
+This folder contains all data which i have worked on.
+
+**2) 911 Calls Project.ipynb**
 
 This project involves exploring and analyzing a dataset of 911 emergency calls. The analysis focuses on extracting insights from the data, visualizing trends, and identifying patterns related to emergency call types, time distribution, and geographic factors.
 
-**2) Finance Project.ipynb**
+**3) Finance Project.ipynb**
 
 This project focuses on financial data analysis, covering areas such as stock price movements, financial metrics, and correlation analysis. The aim is to demonstrate proficiency in handling financial datasets and applying various analytical techniques.
 
-This file contains an external link (provided in the notebook) due to GitHub's inability to render dynamic figures created using plotly's go.figure and iplot methods.
+This file in this external link (provided in the notebook) due to GitHub's inability to render dynamic figures created using plotly's go.figure and iplot methods,but you can also find it in the repo with some completed graphs in the ends of it.
 
 ### Key Highlights:
 

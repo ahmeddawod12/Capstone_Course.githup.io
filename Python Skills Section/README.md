@@ -25,5 +25,3 @@ Both notebooks include well-structured exercises that test and showcase data wra
 The projects demonstrate a solid understanding of Python libraries such as Pandas, Matplotlib, Seaborn, and others critical for data analysis.
 
 Code and results are presented clearly, emphasizing best practices in data analysis and visualization.
-
-***Note***: These projects focus on data analysis and exploration, and do not include the Machine Learning section of the course.

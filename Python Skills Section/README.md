@@ -1,6 +1,4 @@
-## **Capstone Project: Data Science and Machine Learning Bootcamp by Jose Portilla**
-
-This repository showcases the capstone projects completed as part of the Python for Data Science and Machine Learning Bootcamp by Jose Portilla. The projects are designed to apply core concepts learned in the course, with an emphasis on real-world data analysis.
+This file showcases the capstone projects completed as part of the Python Skills for Data Science and Machine Learning Bootcamp by Jose Portilla. The projects are designed to apply core concepts learned in the course, with an emphasis on real-world data analysis.
 
 Included Files:
 

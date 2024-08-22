@@ -1,6 +1,6 @@
 # Projects will be found here:
 
-##2) Linear-Regression-Project.github.io
+## 2) Linear-Regression-Project.github.io
  
 This is part of capstone_project for Python for Data Science and Machine Learning Bootcamp especially Machine Learning section.
 

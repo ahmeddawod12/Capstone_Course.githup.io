@@ -1,16 +1,14 @@
-This file showcases the capstone projects completed as part of the Python Skills for Data Science and Machine Learning Bootcamp by Jose Portilla. The projects are designed to apply core concepts learned in the course, with an emphasis on real-world data analysis.
+# Projects will be found here:
 
-Included Files:
-
-**1) Data:** This folder contains all data which i have worked on.
-
-## **2) 911 Calls Project.ipynb**
+## **1) 911 Calls Project.ipynb**
 
 This project involves exploring and analyzing a dataset of 911 emergency calls. The analysis focuses on extracting insights from the data, visualizing trends, and identifying patterns related to emergency call types, time distribution, and geographic factors.
 
-## **3) Finance Project.ipynb**
+## **2) Finance Project.ipynb**
 
 This project focuses on financial data analysis, covering areas such as stock price movements, financial metrics, and correlation analysis. The aim is to demonstrate proficiency in handling financial datasets and applying various analytical techniques.
+____
+**Data:** This folder contains all data which i have worked on.
 
 This file in this external link ([provided here](https://www.kaggle.com/code/ahmeddawod2/finance-capstone)) due to GitHub's inability to render dynamic figures created using plotly's go.figure and iplot methods,but you can also find it in the repo with some completed graphs in the ends of it.
 

@@ -6,11 +6,11 @@ Included Files:
 
 This folder contains all data which i have worked on.
 
-**2) 911 Calls Project.ipynb**
+## **2) 911 Calls Project.ipynb**
 
 This project involves exploring and analyzing a dataset of 911 emergency calls. The analysis focuses on extracting insights from the data, visualizing trends, and identifying patterns related to emergency call types, time distribution, and geographic factors.
 
-**3) Finance Project.ipynb**
+## **3) Finance Project.ipynb**
 
 This project focuses on financial data analysis, covering areas such as stock price movements, financial metrics, and correlation analysis. The aim is to demonstrate proficiency in handling financial datasets and applying various analytical techniques.
 

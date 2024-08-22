@@ -2,9 +2,7 @@ This file showcases the capstone projects completed as part of the Python Skills
 
 Included Files:
 
-**1) Data**
-
-This folder contains all data which i have worked on.
+**1) Data:** This folder contains all data which i have worked on.
 
 ## **2) 911 Calls Project.ipynb**
 

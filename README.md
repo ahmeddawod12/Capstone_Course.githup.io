@@ -1,29 +1,13 @@
 ## **Capstone Project: Data Science and Machine Learning Bootcamp by Jose Portilla**
 
-This repository showcases the capstone projects completed as part of the Python for Data Science and Machine Learning Bootcamp by Jose Portilla. The projects are designed to apply core concepts learned in the course, with an emphasis on real-world data analysis.
+The all main goal for the Capstone repo is to showcase my new skills and knowledge i have gained througout the course
 
-Included Files:
+In this repository you will find two main sections or folders and each one contain its own data, files and README for more guidance.
 
-**1) Data**
+The Two Main Sections are:
 
-This folder contains all data which i have worked on.
-
-**2) 911 Calls Project.ipynb**
-
-This project involves exploring and analyzing a dataset of 911 emergency calls. The analysis focuses on extracting insights from the data, visualizing trends, and identifying patterns related to emergency call types, time distribution, and geographic factors.
-
-**3) Finance Project.ipynb**
-
-This project focuses on financial data analysis, covering areas such as stock price movements, financial metrics, and correlation analysis. The aim is to demonstrate proficiency in handling financial datasets and applying various analytical techniques.
-
-This file in this external link ([provided here](https://www.kaggle.com/code/ahmeddawod2/finance-capstone)) due to GitHub's inability to render dynamic figures created using plotly's go.figure and iplot methods,but you can also find it in the repo with some completed graphs in the ends of it.
-
-### Key Highlights:
-
-Both notebooks include well-structured exercises that test and showcase data wrangling, visualization, and exploratory data analysis (EDA) skills.
-
-The projects demonstrate a solid understanding of Python libraries such as Pandas, Matplotlib, Seaborn, and others critical for data analysis.
-
-Code and results are presented clearly, emphasizing best practices in data analysis and visualization.
-
-***Note***: These projects focus on data analysis and exploration, and do not include the Machine Learning section of the course.
+1) **Python Skills Section1**: This section for highlighting my skills in learning python and how to handle the data and analyze them.
+2) **Machine Learning Section2**: This section for learning how to use models by ML and going deeply for doing predicitions and analyzing the data for more accuracy.
+  
+  
+***Please read each README file in each section for more clarificatons and hints to fully understand the ideas and the goal for this files.***

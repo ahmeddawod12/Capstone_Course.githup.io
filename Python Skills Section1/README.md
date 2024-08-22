@@ -7,10 +7,10 @@ This project involves exploring and analyzing a dataset of 911 emergency calls. 
 ## **2) Finance Project.ipynb**
 
 This project focuses on financial data analysis, covering areas such as stock price movements, financial metrics, and correlation analysis. The aim is to demonstrate proficiency in handling financial datasets and applying various analytical techniques.
-____
-**Data:** This folder contains all data which i have worked on.
 
 This file in this external link ([provided here](https://www.kaggle.com/code/ahmeddawod2/finance-capstone)) due to GitHub's inability to render dynamic figures created using plotly's go.figure and iplot methods,but you can also find it in the repo with some completed graphs in the ends of it.
+____
+**Data:** This folder contains all data which i have worked on.
 
 ### Key Highlights:
 

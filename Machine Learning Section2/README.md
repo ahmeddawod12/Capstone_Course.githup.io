@@ -17,3 +17,9 @@ This is part of capstone_project for Python for Data Science and Machine Learnin
 **The aim** for the project to highlight my new skills in learning how to use ML in analyzing the data but in this time for categorical items (0,1).
 
 **The subject** for this project to analyze and try to predict the '***Clicked on Ad***' in the upcoming periods with 90% confidence interval.
+
+## 3) K Nearest Neighbors Project.ipynb
+
+**The aim** for the project to highlight my new skills in learning how to use K-Nearest Neighbors (KNN) algorithm as It classifies a data point based on how similar its neighbors are. For example, if you want to classify a data point, the algorithm looks at its closest neighbors (based on distance, like Euclidean distance) and assigns the **majority** class among those neighbors.
+
+**The subject** for this project to analyze and try to predict the '***TARGET CLASS***' in the upcoming periods with 85% accuarcy using _k = 85_.

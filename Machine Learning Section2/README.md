@@ -35,3 +35,11 @@ This is part of capstone_project for Python for Data Science and Machine Learnin
 **The aim** for the project to highlight my new skills in learning how to use Support Vector Machines(SVC) as It can find the best way to draw a line (or a boundary) that separates your data which it can use that line to decide which category new data points belong to.
 
 **The subject** for this project to analyze and try to predict the in the upcoming periods '***species categories***' will belong to which (setosa, versicolor or virginica).
+
+## 6) K Means Clustering Project.ipynb
+
+**The aim** for the project to highlight my new skills in learning how to use K Means Clustering as It organizes the all mixed categories into groups where the items in each group are similar to each other.
+
+**The subject** for this project to analyze and try to organize the '***Private Column***' to which group it belongs to.
+
+

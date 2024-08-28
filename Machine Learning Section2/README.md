@@ -29,3 +29,9 @@ This is part of capstone_project for Python for Data Science and Machine Learnin
 **The aim** for the project to highlight my new skills in learning how to use Random Forest Project as it builds an ensemble of multiple decision trees. By averaging their predictions, Random Forests reduce overfitting and improve model stability.
 
 **The subject** for this project to analyze and try to predict the '***not.fully.paid***' in the upcoming periods.
+
+## 5)Support Vector Machines Project.ipynb
+
+**The aim** for the project to highlight my new skills in learning how to use Support Vector Machines(SVC) as It can find the best way to draw a line (or a boundary) that separates your data which it can use that line to decide which category new data points belong to.
+
+**The subject** for this project to analyze and try to predict the in the upcoming periods '***species categories***' will belong to which (setosa, versicolor or virginica).

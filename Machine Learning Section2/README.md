@@ -42,4 +42,6 @@ This is part of capstone_project for Python for Data Science and Machine Learnin
 
 **The subject** for this project to analyze and try to organize the '***Private Column***' to which group it belongs to.
 
+## 7) Keras-Project.ipynb
 
+**The subject** for this project to predict any new borrower if he gonna repay its debt or no.
